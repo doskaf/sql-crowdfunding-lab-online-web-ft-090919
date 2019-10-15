@@ -29,3 +29,5 @@ INSERT INTO users VALUES ('henry_17', 27);
 INSERT INTO users VALUES ('henry_18', 27);
 INSERT INTO users VALUES ('henry_19', 27);
 INSERT INTO users VALUES ('henry_20', 27);
+
+INSERT INTO pledges VALUES (20, 7, 6);
