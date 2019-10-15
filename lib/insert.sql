@@ -1,0 +1,1 @@
+INSERT INTO projects VALUES ('project_1', 'category', 800, 101519, 121419);
